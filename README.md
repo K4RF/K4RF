@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 GitHub Stats
+<p align="center">
+  ## 📊 GitHub Stats
+</p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
