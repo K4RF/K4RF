@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  📊 Stats
+  <h3></h3>📊 Stats
 </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  🛠️ Tech Stack
+  <h3>🛠️ Tech Stack</h3>
 </p>
 
 <p></p>
