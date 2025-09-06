@@ -1,6 +1,4 @@
-<p align="center">
-  <h2>Hi there 👋</h2> 
-</p>
+## Hi there 👋
 
 <!--
 **K4RF/K4RF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <h3>📊 GitHub Stats</h3>
+  📊 GitHub Stats
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
   </a>
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
   
 
 <p align="center">
-  <h3>🛠️ Tech Stack</h3>
+  🛠️ Tech Stack
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
