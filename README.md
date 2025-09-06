@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a>📊 GitHub Stats</a>
+  📊 GitHub Stats
+</p>
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
   </a>
@@ -26,10 +28,12 @@ Here are some ideas to get you started:
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=K4RF&layout=compact&langs_count=8&card_width=320&theme=onedark" />
   </a>
 </p>
-  
 
 <p align="center">
   🛠️ Tech Stack
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
