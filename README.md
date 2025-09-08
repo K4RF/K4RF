@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 Stats
+### 📊 Stats 📊 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
@@ -24,8 +24,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-### 🛠️ Tech Stack
-<p>Techs that I've learned and used</p>
+<h3 align="center">🛠️ Tech Stack 🛠️</h3>
+<p align="center">Techs that I've learned and used</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
