@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome Kaarf_o's Github👋
 <!--
 **K4RF/K4RF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 Stats 📊 
+### 📊 GitHub & Language Stats
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
