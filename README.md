@@ -12,19 +12,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">📊 Stats</h3>
-<p align="center">
+### 📊 Stats
+<p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
   </a>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=K4RF&layout=compact&langs_count=8&card_width=320&theme=onedark" />
   </a>
 </p>
 
-<h3 align="center">🛠️ Tech Stack</h3>
+###🛠️ Tech Stack
 <p align="center">Techs that I've learned and used</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
