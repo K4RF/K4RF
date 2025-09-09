@@ -12,11 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 📊 GitHub & Language Stats
+<h3 align="center"> 📊 GitHub & Language Stats </h3>
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
   </a>
+  </div>
+ <div align="center">
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=K4RF&layout=compact&langs_count=8&card_width=320&theme=onedark" />
   </a>
@@ -48,7 +50,3 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 </p>
 
-### 🔥 My Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=K4RF&theme=onedark-bold" />
-</p>
