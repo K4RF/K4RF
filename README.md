@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 -->
 
 ### 📊 GitHub & Language Stats
-<div align="center">
+<div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
   </a>
   </div>
- <div align="center">
+ <div>
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=K4RF&layout=compact&langs_count=8&card_width=320&theme=onedark" />
   </a>
