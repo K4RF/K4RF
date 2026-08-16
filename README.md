@@ -1,43 +1,104 @@
-## Welcome Kaarf_o's Github👋
-<!--
-**K4RF/K4RF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
 
-### 📊 GitHub & Language Stats
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=K4RF&theme=onedark" />
-  </a>
-  </div>
- <div>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=K4RF&layout=compact&langs_count=8&card_width=320&theme=onedark" />
-  </a>
+# K4RF
+
+### Backend Engineer
+
+Building reliable backend systems with  
+**Java · Spring Boot · MySQL · Redis**
+
+<br/>
+
+<a href="https://github.com/K4RF">
+  <img src="https://img.shields.io/badge/GitHub-K4RF-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
-<h3 align="center">🛠️ Tech Stack 🛠️</h3>
-<p align="center">Techs that I've learned and used</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+---
+
+## About Me
+
+- Backend Engineer focused on **Java & Spring Boot**
+- Interested in **backend architecture, concurrency, caching, and distributed systems**
+- Building projects with a focus on **reliability and performance**
+- Currently exploring **Redis, Kafka, CI/CD, monitoring, and cloud infrastructure**
+
+---
+
+## Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+
+### Database & Cache
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white"/>
 </p>
+
+### Infrastructure & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square"/>
+</p>
+
+### Currently Exploring
+
+<p>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white"/>
+</p>
+
+---
+
+## Featured Project
+
+### Reservation Platform
+
+> High-concurrency reservation platform focused on reliability and performance.
+
+**Key Topics**
+
+`Concurrency Control` · `Redis` · `Kafka` · `Caching` · `Performance Testing` · `Monitoring`
+
+**Tech Stack**
+
+`Java` · `Spring Boot` · `Spring Security` · `JPA` · `MySQL` · `Redis` · `Kafka` · `Docker`
+
+[View Repository](https://github.com/K4RF/reservation-platform)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=K4RF&show_icons=true&theme=github_dark&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K4RF&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Contact
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
